@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @zmxDMG
 - 👀 I’m interested in Java and Lua programming
+- 🤖 » Future Java developer
+- 💻 » Java, Lua
+- 🔮 » Programs and Games
 - 🌱 I’m currently learning HTML, FRONT-END, BACK-END
 
 
