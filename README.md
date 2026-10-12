@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @zmxDMG
-- 👀 I’m interested in Java and Lua programming
-- 🤖 » Future Java developer
-- 💻 » Java, Lua
-- 🔮 » Programs and Games
-- 🌱 I’m currently learning HTML, FRONT-END, BACK-END
+# Cześć, jestem ZMXDMG 👋
 
+Programuję i rozwijam własne projekty, przede wszystkim w **Javie** i **Lua**. Uczę się również technologii webowych — HTML oraz front-endu i back-endu.
 
-<!---
-zmxDMG/zmxDMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Obszary zainteresowań
+
+- pluginy i narzędzia dla serwerów Minecraft;
+- skrypty Lua i projekty związane z grami;
+- rozwój aplikacji webowych.
+
+## O tym profilu
+
+To specjalne repozytorium GitHub — jego `README.md` jest wyświetlany na stronie profilu [@zmxDMG](https://github.com/zmxDMG). Pozostałe repozytoria profilu zawierają projekty i eksperymenty w różnych stadiach rozwoju.
+
+## Licencja
+
+Zobacz [LICENSE.txt](LICENSE.txt).
