@@ -8,10 +8,6 @@ Programuję i rozwijam własne projekty, przede wszystkim w **Javie** i **Lua**.
 - skrypty Lua i projekty związane z grami;
 - rozwój aplikacji webowych.
 
-## O tym profilu
-
-To specjalne repozytorium GitHub `README.md` jest wyświetlany na stronie profilu [@zmxDMG](https://github.com/zmxDMG). Pozostałe repozytoria profilu zawierają projekty i eksperymenty w różnych stadiach rozwoju.
-
 ## Licencja
 
 Zobacz [LICENSE.txt](LICENSE.txt).
